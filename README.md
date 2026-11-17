@@ -1,6 +1,7 @@
 # Homebrew tap
 
 ```sh
+brew trust --cask hrvojecukman/tap/toranj   # Homebrew asks you to trust third-party casks once
 brew install --cask hrvojecukman/tap/toranj
 ```
 
