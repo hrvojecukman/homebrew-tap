@@ -1,6 +1,6 @@
 cask "toranj" do
-  version "0.1.0"
-  sha256 "e78406bd44f368212fa5aad60da33e36ad2c74080b3ff37bfc8a4ac5f41a3f1c"
+  version "0.1.1"
+  sha256 "f959d124acb23e55b8f4117ba572ac7dc8b7dcefec24557a0edbde57903fa90d"
 
   url "https://github.com/hrvojecukman/toranj/releases/download/v#{version}/Toranj_#{version}_aarch64.dmg"
   name "Toranj"
